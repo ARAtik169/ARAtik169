@@ -63,7 +63,8 @@
 ### 🙋‍♀️ Let's Connect
 <p align="center">
         <a href="https://github.com/ARAtik169/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-        <a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://www.facebook.com/ARAtik169"><img src="https://www.freepnglogos.com/download/32247" alt="Facebook"/></a>
+        <a href="https://www.instagram.com/Atikhasan_169"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 
 </p>
 
