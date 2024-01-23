@@ -9,12 +9,12 @@
 <hr/>
 <h4 align="center">I'm an amateur and Noob.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="Atik Hasan" /> </p>
 
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khrlmstfa&theme=algolia" alt="khrlmstfa"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khrlmstfa&theme=algolia" alt="Atik Hasan"  /></p>
 
 <p align="left"> 
 
